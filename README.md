@@ -3,13 +3,25 @@ A web scrapper aplication for steam that targets a game and constantly checks if
 
 <b>Dependencies - pip installs</b>
 
-beautifulsoup4==4.9.3
-certifi==2020.12.5
-chardet==4.0.0
-idna==2.10
-keyboard==0.13.5
-lxml==4.6.3
-plyer==2.0.0
-requests==2.25.1
-soupsieve==2.2.1
-urllib3==1.26.4
+<ul>
+  <li>beautifulsoup4==4.9.3</li>
+  <li>certifi==2020.12.5</li>
+  <li>chardet==4.0.0</li>
+  <li>idna==2.10</li>
+  <li>keyboard==0.13.5</li>
+  <li>lxml==4.6.3</li>
+  <li>plyer==2.0.0</li>
+  <li>requests==2.25.1</li>
+  <li>soupsieve==2.2.1</li>
+  <li>urllib3==1.26.4</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
